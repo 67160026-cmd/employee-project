@@ -1,5 +1,6 @@
 USE employee_db;
 
+SET NAMES utf8mb4;
 INSERT INTO departments (name, department_code) VALUES
 ('ฝ่ายเทคโนโลยีสารสนเทศ', 'IT'),
 ('ฝ่ายทรัพยากรบุคคล', 'HR'),
